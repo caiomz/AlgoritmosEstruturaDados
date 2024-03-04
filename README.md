@@ -1,1 +1,1 @@
-# Repositório para matérias da FURB
+# Repositório para a matéria de Algoritmos e Estrutura de Dados
