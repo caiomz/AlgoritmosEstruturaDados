@@ -10,6 +10,7 @@ R: É uma parte fundamental da ciência da computação e da programação, pois
 
 c) Explique e exemplifique as estruturas: array (estático e dinâmico), lista, fila e pilha.
 R: 
+
 Arrays Estáticos:
 Coleção de elementos do mesmo tipo, têm um tamanho fixo que é declarado durante a sua criação acessados por um índice.
 Ex: Representar as notas de um aluno em diferentes disciplinas, quando o número de disciplinas é conhecido e constante.
