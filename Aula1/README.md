@@ -1,6 +1,7 @@
 # Pasta para arquivos da Aula 1 de Algoritmos e Estrutura de Dados
 
 Ex1:
+
 a) O que é estrutura de dados?
 R: É uma maneira como os dados são organizados, armazenados e manipulados em um sistema de computação.
 
