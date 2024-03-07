@@ -6,11 +6,11 @@
 
 #### R: É uma maneira como os dados são organizados, armazenados e manipulados em um sistema de computação.
 
-b) Qual sua importância?
+### b) Qual sua importância?
 
 R: É uma parte fundamental da ciência da computação e da programação, pois influencia diretamente na eficiência e na velocidade das operações realizadas pelos programas.
 
-c) Explique e exemplifique as estruturas: array (estático e dinâmico), lista, fila e pilha.
+### c) Explique e exemplifique as estruturas: array (estático e dinâmico), lista, fila e pilha.
 
 R: 
 
