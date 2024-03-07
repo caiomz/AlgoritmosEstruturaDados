@@ -4,7 +4,7 @@
 
 ### a) O que é estrutura de dados?
 
-### R: É uma maneira como os dados são organizados, armazenados e manipulados em um sistema de computação.
+#### R: É uma maneira como os dados são organizados, armazenados e manipulados em um sistema de computação.
 
 b) Qual sua importância?
 
