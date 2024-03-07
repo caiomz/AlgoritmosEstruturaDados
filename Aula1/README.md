@@ -24,7 +24,8 @@
 
 #### Ex: Representar uma lista de produtos em um carrinho de compras online, onde a quantidade de produtos pode variar dinamicamente.
 
-## Listas: Sequência de elementos que podem ser de diferentes tipos e geralmente são dinamicamente ajustáveis. 
+## Listas:
+### Sequência de elementos que podem ser de diferentes tipos e geralmente são dinamicamente ajustáveis. 
 #### Uma LinkedList é uma lista onde cada elemento é um objeto que contém uma referência para o próximo elemento na lista.
 
 #### Ex: Representar o histórico de navegação em um navegador da web, onde novas páginas são adicionadas ao final da lista.
@@ -34,4 +35,5 @@
 #### Ex: Controle de pedidos em um restaurante, onde os pedidos são atendidos na ordem em que foram feitos (primeiro a chegar, primeiro a ser atendido).
 
 ## Pilhas (stacks): Estrutura onde o último elemento inserido é o primeiro a ser removido (LIFO - Last-In-First-Out).
+
 #### Ex: Implementar a funcionalidade "desfazer" em um editor de texto, onde as ações são desfeitas na ordem inversa em que foram realizadas.
