@@ -1,3 +1,5 @@
+// Classe para o exercício 03
+
 package Ex03;
 
 
