@@ -25,7 +25,7 @@ public class GerenciadorTarefas {
         }
     }
 
-    public String obterProximaTarefa() {
+    public String getProximaTarefa() {
         if (!filaTarefas.isEmpty()) {
             return filaTarefas.peek();
         } else {
@@ -33,7 +33,7 @@ public class GerenciadorTarefas {
         }
     }
 
-    public void iniciarModoInterativo() {
+    public void modoInterativo() {
         boolean executando = true;
         while (executando) {
             System.out.println("\nEscolha uma opção:");
@@ -56,7 +56,7 @@ public class GerenciadorTarefas {
                         concluirTarefa();
                         break;
                     case 3:
-                        System.out.println("Próxima Tarefa: " + obterProximaTarefa());
+                        System.out.println("Próxima Tarefa: " + getProximaTarefa());
                         break;
                     case 4:
                         executando = false;
@@ -75,6 +75,6 @@ public class GerenciadorTarefas {
 
     public static void main(String[] args) {
         GerenciadorTarefas gerenciadorTarefas = new GerenciadorTarefas();
-        gerenciadorTarefas.iniciarModoInterativo();
+        gerenciadorTarefas.modoInterativo();
     }
 }
