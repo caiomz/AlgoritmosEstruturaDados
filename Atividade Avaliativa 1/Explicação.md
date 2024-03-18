@@ -9,4 +9,4 @@ Tanto a adição quanto a remoção de elementos em uma fila têm complexidade O
 Como a fila segue a ordem FIFO, a próxima tarefa a ser realizada é sempre o primeiro elemento da fila, o que permite uma visualização eficiente sem a necessidade de percorrer toda a lista de tarefas.
 
 ## Escalabilidade: 
-A estrutura de fila é escalável e pode lidar com um grande número de tarefas sem comprometer significativamente o desempenho.
+A implementação de fila em Java é uma estrutura de dados dinâmica que cresce conforme necessário, o que a torna adequada para lidar com um grande número de tarefas.
